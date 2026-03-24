@@ -1,0 +1,55 @@
+{
+    "name": "001-atm-machine",
+    "version": "1.0.1",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "001-atm-machine": "index.js"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "001-atm-machine@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-TikYQ/FEOMNR1TZhhl0I57ZSPuNGr5bqGpTOureE7wTOGaG48DMutAm1tF3ZJK6p99PaiPiXGy4aymw8baEprw==",
+        "shasum": "eb58633708fed8506319ef74cc82859fb7d28974",
+        "tarball": "https://registry.npmjs.org/001-atm-machine/-/001-atm-machine-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16059,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDlRJAEvHvRCe7Aa3wbIjmh08Q6iN4YG0kVoawRLOnC4QIhAK1VPSdocrIMKiNrXxJd7Tku3rGzx+7yqQCkry27kBuO"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "hamna_npm_shah123",
+        "email": "hamnashah778@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hamna_npm_shah123",
+            "email": "hamnashah778@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/001-atm-machine_1.0.1_1712318897139_0.32603699168346734"
+    },
+    "_hasShrinkwrap": false
+}

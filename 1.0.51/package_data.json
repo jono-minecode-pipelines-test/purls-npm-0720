@@ -1,0 +1,88 @@
+{
+    "name": "0.extends.packapp",
+    "version": "1.0.51",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {},
+    "devDependencies": {
+        "@babel/core": "7.12.3",
+        "@babel/node": "7.12.6",
+        "@babel/plugin-proposal-class-properties": "^7.13.0",
+        "@babel/plugin-transform-runtime": "7.12.1",
+        "@babel/plugin-transform-typescript": "7.11.0",
+        "@babel/polyfill": "7.12.1",
+        "@babel/preset-env": "7.12.1",
+        "@babel/preset-react": "7.12.5",
+        "@babel/preset-typescript": "^7.13.0",
+        "@babel/runtime": "7.12.5",
+        "@types/copy-webpack-plugin": "^8.0.0",
+        "@types/fs-extra": "9.0.10",
+        "@types/minimist": "1.2.0",
+        "@types/rimraf": "3.0.0",
+        "@types/styled-components": "5.1.7",
+        "@types/webpack-bundle-analyzer": "3.9.0",
+        "babel-loader": "8.1.0",
+        "babel-plugin-import": "1.13.1",
+        "babel-preset-react-app": "10.0.0",
+        "clean-webpack-plugin": "4.0.0-alpha.0",
+        "copy-webpack-plugin": "^9.0.0",
+        "cross-conf-env": "^1.2.1",
+        "css-loader": "5.0.1",
+        "electron": "12.0.2",
+        "electron-builder": "22.10.5",
+        "eslint": "7.11.0",
+        "file-loader": "6.1.0",
+        "fs-extra": "9.0.1",
+        "html-webpack-plugin": "^5.3.1",
+        "less-loader": "7.0.2",
+        "minimist": "^1.2.5",
+        "rimraf": "3.0.2",
+        "sass-loader": "10.0.5",
+        "source-map": "0.7.3",
+        "source-map-resolve": "0.6.0",
+        "source-map-support": "0.5.19",
+        "style-loader": "2.0.0",
+        "styled-components": "5.2.1",
+        "ts-import-plugin": "1.6.6",
+        "ts-node": "9.1.1",
+        "tsconfig-paths": "3.9.0",
+        "tsconfig-paths-webpack-plugin": "3.3.0",
+        "typescript": "4.2.4",
+        "webpack": "^5.38.1",
+        "webpack-bundle-analyzer": "3.9.0"
+    },
+    "gitHead": "25f86a13174d287842c63e9c78c7cf8be35a67e9",
+    "_id": "0.extends.packapp@1.0.51",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "lerna/4.0.0/node@v14.16.0+x64 (win32)",
+    "dist": {
+        "integrity": "sha512-37vA9YAHR468i2Jus/vtVX3hZHCnUiVJ/JrAykKLGi5n5iJ+TVBCvRoStLXQzMyEjU4FEgXf6d8jIK5dgawE3A==",
+        "shasum": "5bf9fcf83b661d90ae463c7cb7a84310bae26328",
+        "tarball": "https://registry.npmjs.org/0.extends.packapp/-/0.extends.packapp-1.0.51.tgz",
+        "fileCount": 8,
+        "unpackedSize": 36511,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg1wwvCRA9TVsSAnZWagAAYAsP/2gPAW4hqVPf5X5FFnlZ\nJCfi+s1LIR9U1cknP9sC4oS3OaBMPqiEM4sDdHYxLHSdff/1Vi1OnfGRj8It\ntFTgCTzMtiyV3ppKuchmHibs6jhtZ2Q8Gt8dBjKTLBXEe5mypqeXvaiPqMjD\nMZR8NNn+G5mnEm3y9w2bj81rPHO3V/0PHUNgcpJQTs4dixuBPMGVE3uhSIGt\nTlktovEA+91dL777seqItmO27h24BYPSY4XgjbnGA7WDEDr+CnksQsioaXc8\n+1Le3NSoovCJK5CmClekMOa80qJkhDHk58BoKTfhjmcW7Rj8q7pxz+1cQkXd\n1J99AIEN81poisi+JImjUANmrBh4CbYSm+aUBzaYhF+hT7nLn+n3wwL9HFGs\nglzfW8cjkgmOK/A8aMvsVdbAuVZwqHJ/3TdgDZ+Q+soSZBFcYEl7q5oA3r7d\nv83gaIbB/Fffyh40KXUZgUP1X/6P+WBPU8x50EyJLl/dNB7Md+MaxK0hNtBI\nmBrSgpqvk01aIxS/fpzWkYtwxWT0DvHXA2aJ+4pF5XMlxex7DsIdKtFedL07\n9tGa2Q1YSZxleO2S3hLUEXUefkUr5NQAk2JGDndTuCO/ebWzYyZ8X4PSNjJ3\ntM6MZqiLJR5GXC4/5TdbMfCvgrwrlzRGWy27YYYAnyJzrAN8T38YvMUeK9S5\nLgHC\r\n=99iq\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIC/W+bGxnYmUaftuBK89/LTCzvvyNSjnWREp67NGSu4NAiABFO+gGlgday2h7hOjc4FkzGWxulh2PkI5guGAH6yUuA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kitchens",
+        "email": "kitchens@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kitchens",
+            "email": "kitchens@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.extends.packapp_1.0.51_1624706095516_0.3502269830134932"
+    },
+    "_hasShrinkwrap": false
+}
